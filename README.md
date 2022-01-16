@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaomarcosbc
-- 🎓 Computer Science - 4/9
+- 🎓 Computer Science - 5/9
 - 👀 I’m interested in web development ...
 
 <!---
