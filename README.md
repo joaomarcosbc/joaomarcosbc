@@ -9,6 +9,7 @@
 
 [![instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/joaomarcosbc/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/joaomarcossbc) [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcos-cerqueira-a082801b9/)
 
+- Thanks For Visiting
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=joaomarcosbc&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 <!---
