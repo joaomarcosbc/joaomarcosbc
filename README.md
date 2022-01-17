@@ -15,6 +15,10 @@
 
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/joaomarcosbc/"/></a>
+  
+  <a href="#" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white=Twitter&logoColor=white&link=https://twitter.com/joaomarcossbc"/></a>
+
 </p>  
 
 
