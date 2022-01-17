@@ -11,7 +11,8 @@
 
 - Thanks For Visiting
 
-[![card]"https://github-readme-stats.vercel.app/api?username=joaomarcosbc&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"]
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/iuricode/) [![joaomarcosbc](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
 <!---
 joaomarcosbc/joaomarcosbc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
