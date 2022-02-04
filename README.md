@@ -1,4 +1,4 @@
-# WELCOME
+# WELCOME <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 <div style="display: flex; width: 100%; justify-content: space-between">
       <div>
