@@ -4,8 +4,8 @@
       <div>
              <ul>
 		<li>👋 Hi, I’m @joaomarcosbc</li>
-		<li>🎓 Computer Science - 5/9</li>
-		<li>👀 I’m interested in web development ...</li>
+		<li>🎓 Computer Science - 6/9</li>
+		<li>👀 Web Developer ...</li>
              </ul>
       </div>
 	
