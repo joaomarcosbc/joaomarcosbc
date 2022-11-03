@@ -24,7 +24,7 @@
 
 - Thanks For Visiting
 
-[![@joaomarcosbc's Holopin board](https://holopin.me/joaomarcosbc)](https://holopin.io/@joaomarcosbc)
+
 
 
 <!---
