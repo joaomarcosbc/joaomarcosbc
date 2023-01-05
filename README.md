@@ -5,7 +5,7 @@
              <ul>
 		<li>👋 Hi, I’m @joaomarcosbc</li>
 		<li>🎓 Computer Science - 7/9</li>
-		<li>👀 Web Developer ...</li>
+		<li>👨‍💻 Web Developer ...</li>
              </ul>
       </div>
 	
