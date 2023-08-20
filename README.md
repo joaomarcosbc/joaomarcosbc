@@ -5,9 +5,9 @@
              <ul>
 		<li>👋 Hi, I’m @joaomarcosbc</li>
 		<li>🇧🇷 Brazillian</li>
-		<li>🎓 Computer Science - 7/9</li>
+		<li>🎓 Computer Science - 8/9</li>
 		<li>👨‍💻 Backend Developer</li>
-		<li>📊 Interested in Data Science...</li>
+		<li>📊 Interested in Data Science and Software architecture...</li>
              </ul>
       </div>
 	
