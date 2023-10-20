@@ -7,7 +7,7 @@
 		<li>🇧🇷 Brazillian</li>
 		<li>🎓 Computer Science - 8/9</li>
 		<li>👨‍💻 Backend Developer</li>
-		<li>📊 Interested in Data Science and Software architecture...</li>
+		<li>📊 Interested in software architecture...</li>
              </ul>
       </div>
 	
